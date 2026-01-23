@@ -1,0 +1,59 @@
+body {
+    /*background-color: rgb(37, 2, 45);*/
+    background-image: url(assets/starry-sky.jpg);
+    /*background-position: center;*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: center;
+}
+
+h1 {
+    color: rgba(255, 255, 255, 0.96);
+    text-align: center;
+}
+
+.blog-post-card {
+    background-color: white;
+    border: solid 1px black;
+    border-radius: 25px;
+    box-shadow: 4px 4px 20px #ffffff;
+    overflow: hidden;
+    text-align: center;
+    margin: 5% auto;
+    max-width: 100%;
+    width: 500px;
+}
+
+.post-img {
+    display: block;
+    height: 275px;
+    object-fit: cover;
+    width: 100%;
+    border-bottom: black solid 1px;
+}
+
+.post-content {
+    padding: 18px 20px 25px;
+}
+
+.post-excerpt {
+    color: rgb(37, 16, 47);
+}
+
+.post-title {
+    color:rgb(64, 55, 66)
+}
+
+.read-more {
+    background-color: rebeccapurple;
+    border-radius: 25px;
+    color: rgba(255, 255, 255, 0.96);
+    display: inline-block;
+    margin: 10px;
+    padding: 9px;
+}
+
+.read-more:hover {
+    background-color: rgb(13, 135, 183);
+    transition: background-color 0.3s ease;
+}
